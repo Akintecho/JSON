@@ -1,0 +1,43 @@
+{
+
+
+  "tosbamEmployees": [
+
+{
+          "id": 1,
+          "Fullname": "Tosin Ogunbameru",
+          "Position": "CEO",
+          "phone": "08144077077",
+          "sex": "Female",
+          "email": "tosinogunbameru@gmail.com",
+          "salary": "200000"
+},
+
+
+{
+
+          "id": 2,
+          "Fullname": "Tosin Sangodipe",
+          "Position": "MD",
+          "phone": "07066138450",
+          "sex": "male",
+          "email": "tsangodipe@gmail.com",
+          "salary":"150000"  
+},
+
+
+{
+
+          "id": 3,
+          "Fullname": "Rotimi Sangodipe",
+          "Position": "MD",
+          "phone": "08051503061",
+          "sex": "male",
+          "email": "rotex@gmail.com",
+          "salary":"100000"  
+}
+
+
+  ]
+
+}
